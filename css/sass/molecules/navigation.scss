@@ -3,9 +3,9 @@
     ========================================================================== */
 
     /* MOBILE */
-   
+
     @media only screen {
-      
+
         /*  Header
             ========================================================================== */
 
@@ -37,7 +37,7 @@
             ========================================================================== */
 
             .footer {
-                
+
             }
 
         /*  Menu
@@ -59,7 +59,7 @@
             }
             nav[role=navigation] {
                 clear: both;
-                -webkit-transition: all 0.3s ease-out;  
+                -webkit-transition: all 0.3s ease-out;
                 -moz-transition: all 0.3s ease-out;
                 -ms-transition: all 0.3s ease-out;
                 -o-transition: all 0.3s ease-out;
@@ -94,7 +94,7 @@
     /* DESKTOP AND TABLETS */
 
     @media only screen and (min-width: $breakpoint) {
-      
+
         /*  Header
             ========================================================================== */
 
@@ -127,7 +127,7 @@
                 border: 0;
                 float: right;
             }
-            
+
             nav[role=navigation]  li {
                 display: inline-block;
                 margin: 0 0.25em;
@@ -137,8 +137,8 @@
             }
 
             nav[role=navigation] li a.active {
-               border-bottom: 5px solid $blue;
                color: $blue;
+               font-weight: bold;
             }
 
    }
