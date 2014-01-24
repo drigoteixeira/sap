@@ -6,11 +6,16 @@ jQuery(document).ready(function($) {
 $('header').addClass('js');
 
 var $menu = $('#menu'),$menulink = $('.menu-link');
-  
+
 $menulink.click(function() {
 	$menulink.toggleClass('active');
 	$menu.toggleClass('active');
 	return false;
+});
+
+$("nav[role=navigation] li a").click(function() {
+    $menu.toggleClass('active');
+    return false;
 });
 
 // FADE IN TAGLINE
@@ -25,15 +30,15 @@ $(".tagline a").delay(1000).animate({opacity: 1}, 1200);
 $(document).on("scroll", onScroll);
 
 //smoothscroll
-$('a[href^="#"]').on('click', function (e) {
+$('#menu a[href^="#"]').on('click', function (e) {
     e.preventDefault();
     $(document).off("scroll");
-    
+
     $('a').each(function () {
         $(this).removeClass('active');
     });
     $(this).addClass('active');
-  
+
     var target = this.hash,
         menu = target;
     $target = $(target);
@@ -43,6 +48,7 @@ $('a[href^="#"]').on('click', function (e) {
         window.location.hash = target;
         $(document).on("scroll", onScroll);
     });
+
 });
 
 function onScroll(event){

@@ -10,14 +10,15 @@
             ========================================================================== */
 
             .header {
-                  width: 100%;
-                  height: 60px;
-                  background: $navbar-color;
-                  margin-bottom: 0;
-                  position: fixed;
-                  top:  0;
-                  left: 0;
-                  z-index: 100;
+                width: 100%;
+                height: 60px;
+                background: $white;
+                margin-bottom: 0;
+                position: fixed;
+                top:  0;
+                left: 0;
+                z-index: 100;
+                box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2)
             }
 
             .logo h1 {
@@ -52,7 +53,7 @@
                 width: 60px;
                 line-height: 60px;
                 color: $white;
-                background: #222;
+                background: $blue;
                 text-align: center;
                 text-decoration: none;
                 margin-bottom: 0;
@@ -64,7 +65,7 @@
                 -ms-transition: all 0.3s ease-out;
                 -o-transition: all 0.3s ease-out;
                 transition: all 0.3s ease-out;
-                background: $gray2;
+                background: $white;
                 padding-top: 8px;
             }
             .js nav[role=navigation] {
@@ -77,15 +78,20 @@
             nav[role=navigation] ul {
                 margin: 0;
                 padding: 0;
-                border-top: 1px solid #808080;
+                border-top: 1px solid $grayC;
             }
             nav[role=navigation] li a {
                 display: block;
-                padding: 0.8em;
+                padding: 1em;
                 border-bottom: 1px solid #808080;
-                color: $white;
-                font-size: 16px;
+                color: $gray6;
+                font-size: 14px;
+                font-weight: bold;
                 text-transform: uppercase;
+                text-decoration: none;
+            }
+            nav[role=navigation] li a:hover {
+                color: $blue;
             }
 
 
@@ -138,7 +144,6 @@
 
             nav[role=navigation] li a.active {
                color: $blue;
-               font-weight: bold;
             }
 
    }

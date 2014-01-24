@@ -11,7 +11,7 @@
 			<a href="#menu" class="menu-link"><i class="icon-align-justify"></i></a>
 			<nav id="menu" role="navigation">
 				<ul>
-					<li><a href="#solucoes" class="active">Soluções</a></li>
+					<li><a href="#solucoes">Soluções</a></li>
 					<li><a href="#tecnologia">Tecnologia</a></li>
 					<li><a href="#parceria">Parceria</a></li>
 					<li><a href="#sobre">Sobre Nós</a></li>
@@ -20,4 +20,4 @@
 			</nav>
 		</div>
 	</div>
-</header>	
+</header>
