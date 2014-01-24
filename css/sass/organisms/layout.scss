@@ -1,0 +1,81 @@
+/*  ==========================================================================
+    Layout
+    ========================================================================== */
+
+
+    /* MOBILE */
+   
+    @media only screen {
+
+        body {
+            background: $white;
+        }
+
+
+        /* HOMEPAGE */
+
+        .hero {
+            background: url(../img/hero-image.jpg) top center no-repeat;
+            background-size: cover;
+            min-height: 500px;
+            position: relative;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .tagline {
+            text-align: center;
+            padding: 50px 0 0;
+            margin-top: 50px;
+        }
+
+        .solutions,
+        .technology, 
+        .partnership,
+        .about,
+        .contact{
+            padding-top: 60px;
+            padding-bottom: 60px;
+            height: 100%;
+        }
+
+        .partnership {
+            background: $blue
+        }
+
+        .technology {
+            background: $white;
+        }
+
+        /* Thumbs */
+
+        .thumb {
+            text-align: center;
+        }
+
+        .thumb img {
+            width: auto;
+            margin: 0 auto;
+        }
+
+
+
+        .about {
+            background: #f5f5f5 url(../img/bg_sobre.jpg) no-repeat top center;
+        }
+
+
+        .contact {
+            background: #333 url(../img/bg_map.jpg) no-repeat top center;
+        }
+
+    
+    }
+
+
+    /* DESKTOP e TABLET */
+
+    @media only screen and (min-width: $breakpoint) {
+
+
+    }

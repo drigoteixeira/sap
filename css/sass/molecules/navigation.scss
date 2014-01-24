@@ -1,0 +1,144 @@
+/*  ==========================================================================
+    Navigation
+    ========================================================================== */
+
+    /* MOBILE */
+   
+    @media only screen {
+      
+        /*  Header
+            ========================================================================== */
+
+            .header {
+                  width: 100%;
+                  height: 60px;
+                  background: $navbar-color;
+                  margin-bottom: 0;
+                  position: fixed;
+                  top:  0;
+                  left: 0;
+                  z-index: 100;
+            }
+
+            .logo h1 {
+                margin: 0 0 0 10px;
+                padding: 0;
+                display: block;
+                width: 130px;
+                height: 50px;
+                text-indent: -9999px;
+                background: url(../img/logo.png) no-repeat;
+            }
+
+
+
+
+        /*  Footer
+            ========================================================================== */
+
+            .footer {
+                
+            }
+
+        /*  Menu
+            ========================================================================== */
+
+            a.menu-link {
+                position: absolute;
+                top: 0;
+                right: 0;
+                display: block;
+                height: 60px;
+                width: 60px;
+                line-height: 60px;
+                color: $white;
+                background: #222;
+                text-align: center;
+                text-decoration: none;
+                margin-bottom: 0;
+            }
+            nav[role=navigation] {
+                clear: both;
+                -webkit-transition: all 0.3s ease-out;  
+                -moz-transition: all 0.3s ease-out;
+                -ms-transition: all 0.3s ease-out;
+                -o-transition: all 0.3s ease-out;
+                transition: all 0.3s ease-out;
+                background: $gray2;
+                padding-top: 8px;
+            }
+            .js nav[role=navigation] {
+                overflow: hidden;
+                max-height: 0;
+            }
+            nav[role=navigation].active {
+                max-height: 15em;
+            }
+            nav[role=navigation] ul {
+                margin: 0;
+                padding: 0;
+                border-top: 1px solid #808080;
+            }
+            nav[role=navigation] li a {
+                display: block;
+                padding: 0.8em;
+                border-bottom: 1px solid #808080;
+                color: $white;
+                font-size: 16px;
+                text-transform: uppercase;
+            }
+
+
+    }
+
+    /* DESKTOP AND TABLETS */
+
+    @media only screen and (min-width: $breakpoint) {
+      
+        /*  Header
+            ========================================================================== */
+
+
+        /*  Footer
+            ========================================================================== */
+
+            .contact {
+                text-align: center;
+            }
+
+            .signature {
+                background: $gray3;
+            }
+
+
+
+        /*  Menu
+            ========================================================================== */
+
+
+            a.menu-link {
+               display: none;
+            }
+            .js nav[role=navigation] {
+                max-height: none;
+            }
+            nav[role=navigation] ul {
+                margin: 0 0 0 -0.25em;
+                border: 0;
+                float: right;
+            }
+            
+            nav[role=navigation]  li {
+                display: inline-block;
+                margin: 0 0.25em;
+            }
+            nav[role=navigation] li a {
+                border: 0;
+            }
+
+            nav[role=navigation] li a.active {
+               border-bottom: 5px solid $blue;
+               color: $blue;
+            }
+
+   }
