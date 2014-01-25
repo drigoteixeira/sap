@@ -15,7 +15,7 @@
    <main role="main">
 
    		<!-- TAGLINE -->
-   		<div class="hero">
+   		<div id="home" class="hero">
    			<div class="eightcol centered tagline">
 	   			<h2>Movendo negócios. <br> <span>Conectando pessoas.</span></h2>
 	   			<p>A Santrode é uma empresa especializada em consultoria de negócios em funcionalidades  SAP com ampla expertise em interfaces amigáveis para mobile, tablet e desktop. </p>
@@ -65,33 +65,42 @@
 	   	<div id="tecnologia" class="technology">
 		   	<div class="row">
 		   		<div class="twelvecol">
-		   			<h3 class="title">Framework: Sua empresa na vanguarda</h3>
+		   			<h3 class="title">Sua aplicação UI na vanguarda da tecnologia</h3>
 		   			<p class="lead">Com a integração da Neptune, você pode gerenciar maravilhosas aplicações de interfaces usando as seguintes tecnologias: </p>
 		   		</div>
 		   	</div>
             <div class="row">
-                <div class="threecol">
-                    <img src="http://placehold.it/200x100">
+                <div class="fourcol">
+                	<figure class="thumb">
+                    	<img src="img/jquery.png" alt="jQuery">
+                	</figure>
                 </div>
-                <div class="threecol">
-                    <img src="http://placehold.it/200x100">
+                <div class="fourcol">
+                    <figure class="thumb">
+                    	<img src="img/jquery-ui.png" alt="jQuery UI">
+                	</figure>
                 </div>
-                <div class="threecol">
-                    <img src="http://placehold.it/200x100">
-                </div>
-                <div class="threecol last">
-                    <img src="http://placehold.it/200x100">
+                <div class="fourcol last">
+                    <figure class="thumb">
+                    	<img src="img/jquery-mobile.png" alt="jQuery Mobile">
+                	</figure>
                 </div>
             </div>
             <div class="row">
-                <div class="threecol">
-                    <img src="http://placehold.it/200x100">
+            	<div class="fourcol">
+                    <figure class="thumb">
+                    	<img src="img/phonegap.png" alt="Phone Gap">
+                	</figure>
                 </div>
-                <div class="threecol">
-                    <img src="http://placehold.it/200x100">
+                <div class="fourcol">
+                    <figure class="thumb">
+                    	<img src="img/wijmo.png" alt="Wijmo">
+                	</figure>
                 </div>
-                <div class="threecol">
-                    <img src="http://placehold.it/200x100">
+                <div class="fourcol last">
+                    <figure class="thumb">
+                    	<img src="img/html5.png" alt="HTML5">
+                	</figure>
                 </div>
             </div>
 	   	</div>
@@ -109,27 +118,20 @@
 		   	</div>
 	   	</div>
 
-	   	<!-- ABOUT -->
-	   	<div id="sobre" class="about">
-		   	<div class="row">
-		   		<div class="twelvecol">
-		   			<h3 class="title">Nós Somos a Santrode</h3>
-
-		   			<p class="lead">A Santrode, em parceira com a Neptune Software, oferece a mais eficiente e segura maneira de fazer qualquer funcionalidade SAP perfeitamente disponível em interfaces amigáveis no telefone, Tablet e desktop.</p>
-
-		   			<p class="lead">Dispomoos de qualificação para a realização da implantação da solução de mobilidade baseada em nossa experiência de mais de 11 (onze) anos no Brasil e Exterior.  na implantação de soluções CRM, Business Suíte, Utilities (Gás, Energia, etc), Telecom, Application Management, entre outros segmentos.</p>
-
-		   		</div>
-		   	</div>
-	   	</div>
-
 	   	<!-- CONTACT -->
 
 	   	<div id="contato" class="contact">
 	   		<div class="row">
-				<div class="tencol centered">
-					<h3 class="title">Veja o que a Santrode pode fazer por sua empresa hoje:</h3>
-					<p class="lead">Estamos em busca de novas parcerias e prestar os melhores serviços em consultoria SAP. Se você gostou de nossa proposta, entre em contato hoje mesmo: </p>
+
+	   			<div class="sixcol">
+	   				<h3>Sobre Nós</h3>
+
+		   			<p>Dispomos de qualificação para a realização da implantação da solução de mobilidade baseada em nossa experiência de mais de 11 (onze) anos no Brasil e Exterior.  na implantação de soluções CRM, Business Suíte, Utilities (Gás, Energia, etc), Telecom, Application Management, entre outros segmentos.</p>
+	   			</div>
+
+				<div class="sixcol last">
+					<h3>Veja o que a Santrode pode fazer por sua empresa hoje:</h3>
+					<p>Estamos em busca de novas parcerias e prestar os melhores serviços em consultoria SAP. Se você gostou de nossa proposta, entre em contato hoje mesmo: </p>
 					<a href="mailto:contato@santrode.com.br" class="btn">Entre em contato conosco</a></p>
 				</div>
 			</div>

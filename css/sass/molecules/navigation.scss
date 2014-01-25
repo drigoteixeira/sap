@@ -31,6 +31,12 @@
                 background: url(../img/logo.png) no-repeat;
             }
 
+            .logo h1 a {
+                display: block;
+                width: 130px;
+                height: 50px;
+            }
+
 
 
 
@@ -53,7 +59,7 @@
                 width: 60px;
                 line-height: 60px;
                 color: $white;
-                background: $blue;
+                background: $red;
                 text-align: center;
                 text-decoration: none;
                 margin-bottom: 0;
@@ -82,7 +88,7 @@
             }
             nav[role=navigation] li a {
                 display: block;
-                padding: 1em;
+                padding: 1em .8em;
                 border-bottom: 1px solid #808080;
                 color: $gray6;
                 font-size: 14px;

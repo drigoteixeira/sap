@@ -14,7 +14,6 @@
 					<li><a href="#solucoes">Soluções</a></li>
 					<li><a href="#tecnologia">Tecnologia</a></li>
 					<li><a href="#parceria">Parceria</a></li>
-					<li><a href="#sobre">Sobre Nós</a></li>
 					<li><a href="#contato">Contato</a></li>
 				</ul>
 			</nav>

@@ -30,7 +30,7 @@ $(".tagline a").delay(1000).animate({opacity: 1}, 1200);
 $(document).on("scroll", onScroll);
 
 //smoothscroll
-$('#menu a[href^="#"]').on('click', function (e) {
+$('a[href^="#"]').on('click', function (e) {
     e.preventDefault();
     $(document).off("scroll");
 
