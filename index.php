@@ -26,7 +26,7 @@
    		<!-- SOLUTIONS -->
 	   	<div id="solucoes" class="row solutions">
 	   		<div class="twelvecol">
-	   			<h3 class="title">Soluções e consutoria em mobilidade SAP</h3>
+	   			<h3 class="title">Solução ABAP para a mobilidade SAP da empresa</h3>
 
 	   			<p class="lead">A Santrode oferece a mais eficiente, ágil e segura soluções em tecnologia para adequar as funcionalidades SAP integradas em plataformas mobile, tablet e desktop.</p>
 	   		</div>
@@ -53,7 +53,7 @@
 	   			</div>
                 <div class="threecol last">
                     <figure class="thumb">
-                        <img src="img/briefcase.png" alt="Briefcase">
+                        <img src="img/update.png" alt="Update">
                     </figure>
                     <h4>Atualize</h4>
                     <p>Atualize as informações com ampla segurança usando o SAP Mobile Platform</p>
@@ -102,6 +102,10 @@
                     	<img src="img/html5.png" alt="HTML5">
                 	</figure>
                 </div>
+            </div>
+
+            <div class="threecol centered">
+            	<a href="#" class="btn small">Ver Demonstração</a>
             </div>
 	   	</div>
 

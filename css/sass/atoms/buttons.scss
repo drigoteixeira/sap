@@ -3,27 +3,33 @@
     ========================================================================== */
 
     .btn {
-		background-color: #A90606;
-	    background-image: -moz-linear-gradient(center top , #BA0808, #A90606);
+		background-color: #ff4136;
 	    background-repeat: repeat-x;
-	    border: 1px solid #B10707;
-	    border-radius: 4px;
-	    box-shadow: 0 1px 0 #AD1C1D inset, 0 1px 0 0 #732220, 0 1px 4px #333333;
+	    border-radius: 5px;
 	    color: #FFFFFF;
 	    cursor: pointer;
 	    display: inline-block;
 	    font-size: 18px;
-	    margin-right: 20px;
 	    padding: 14px 28px;
 	    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
     	text-transform: uppercase;
 	}
 
+
+
 	a.btn:hover {
-		background-color:#E8FFE5;
+		background-color:#7F201B;
 		text-decoration:none;
 	}
 	a.btn:active {
 		position:relative;
 		top:1px;
+	}
+
+	.small {
+		padding: 14px 28px;
+		font-size: 14px;
+		width: 220px;
+		text-align: center;
+		margin: 0 10%;
 	}
