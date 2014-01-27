@@ -1,4 +1,4 @@
-<meta name="description" content="Bem-vindo ao website da Santrode, uma empresa especializada em consultoria em projetos SAP CRM, atuando no Brasil e no exterior.">
+<meta name="description" content="Conheça a Santrode, uma empresa especializada em consultoria em projetos SAP CRM, atuando no Brasil e no exterior.">
 <meta name="author" content="Alternativa Coletiva">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 

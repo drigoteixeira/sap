@@ -4,7 +4,7 @@
 <!--[if IE 9]>    <html class="no-js ie9" lang="pt-br">     <![endif]-->
 <head>
    <meta charset="utf-8">
-   <title>Santrode - Soluções em Mobilidade baseadas em SAP</title>
+   <title>Santrode - Soluções em Mobilidade SAP</title>
    <?php include('in/meta.php');?>
    <?php include('in/estilos.php');?>
 </head>
