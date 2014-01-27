@@ -17,8 +17,8 @@
    		<!-- TAGLINE -->
    		<div id="home" class="hero">
    			<div class="eightcol centered tagline">
-	   			<h2>Movendo negócios. <br> <span>Conectando pessoas.</span></h2>
-	   			<p>A Santrode é uma empresa especializada em consultoria de negócios em funcionalidades  SAP com ampla expertise em interfaces amigáveis para mobile, tablet e desktop. </p>
+	   			<h2>Conectando pessoas para mover negócios</h2>
+	   			<p>Agilidade, produtividade, gestão centralizada. Descubra com a Santrode o que as aplicações SAP e a mobilidade corporativa podem fazer por sua empresa. </p>
 	   			<a href="#solucoes" class="btn">Saiba Mais</a>
    			</div>
    		</div>
@@ -26,37 +26,38 @@
    		<!-- SOLUTIONS -->
 	   	<div id="solucoes" class="row solutions">
 	   		<div class="twelvecol">
-	   			<h3 class="title">Solução ABAP para a mobilidade SAP da empresa</h3>
+	   			<h3 class="title">Uma solução exclusiva em mobilidade SAP</h3>
 
-	   			<p class="lead">A Santrode oferece a mais eficiente, ágil e segura soluções em tecnologia para adequar as funcionalidades SAP integradas em plataformas mobile, tablet e desktop.</p>
+	   			<p class="lead">Aplicações SAP implementadas de forma rápida, segura e eficiente em dispositivos mobile, como tablets, smartphones e desktops. Em parceria com a Neptune Software, a Santrode diferencia-se por oferecer a seus clientes a única solução do mercado integrada ao código-fonte ABAP (SAP), proporcionando:</p>
 	   		</div>
 	   		<div class="row">
 	   			<div class="threecol">
 	   				<figure class="thumb">
 	   					<img src="img/paper.png" alt="Paper">
 	   				</figure>
-	   				<h4>Crie</h4>
-	   				<p>Alavanque sua habilidade com ABAP usando aplicação Neptune Application Designer </p>	   			</div>
+	   				<h4>Economia</h4>
+	   				<p>Ausência de servidores, middleware e integração associada, reduzindo custos excessivos de manutenção</p>
+                </div>
 	   			<div class="threecol">
 	   				<figure class="thumb">
 	   					<img src="img/gear.png" alt="Gear">
 	   				</figure>
-	   				<h4>Construa</h4>
-	   				<p>Como base da construção da plataforma, a aplicação utiliza HTML5 em integração com Phonegap da Adobe.</p>
+	   				<h4>Performance</h4>
+	   				<p>Maximização do SAP, minimizando a necessidade de integração e resultando em um retorno mais rápido sobre o investimento</p>
 	   			</div>
 	   			<div class="threecol">
 	   				<figure class="thumb">
 	   					<img src="img/briefcase.png" alt="Briefcase">
 	   				</figure>
-	   				<h4>Gerencie</h4>
-	   				<p>Gerencie os dispositivos e a distribuição de informação com o SAP Afaria.</p>
+	   				<h4>Velocidade</h4>
+	   				<p>Em poucos dias, as funcionalidades SAP disponíveis nos tablets e smartphones de sua equipe, parceiros ou clientes finais</p>
 	   			</div>
                 <div class="threecol last">
                     <figure class="thumb">
                         <img src="img/update.png" alt="Update">
                     </figure>
-                    <h4>Atualize</h4>
-                    <p>Atualize as informações com ampla segurança usando o SAP Mobile Platform</p>
+                    <h4>Gestão</h4>
+                    <p>Acompanhamento em tempo real das trocas de informação de suas equipes, proporcionando maior controle sobre transações, consultas e status de pedidos</p>
                 </div>
 	   		</div>
 	   	</div>
@@ -65,8 +66,8 @@
 	   	<div id="tecnologia" class="technology">
 		   	<div class="row">
 		   		<div class="twelvecol">
-		   			<h3 class="title">Sua aplicação UI na vanguarda da tecnologia</h3>
-		   			<p class="lead">Com a integração da Neptune, você pode gerenciar maravilhosas aplicações de interfaces usando as seguintes tecnologias: </p>
+		   			<h3 class="title">A tecnologia a serviço de seu projeto SAP</h3>
+		   			<p class="lead">Interfaces interativas, aplicativos mais atraentes, APIs bem estruturados e alto desempenho. Características que acompanham os projetos desenvolvidos pela Santrode por meio das seguintes tecnologias:</p>
 		   		</div>
 		   	</div>
             <div class="row">
@@ -112,12 +113,11 @@
 	   	<!-- PARTNERSHIP -->
 	   	<div id="parceria" class="partnership">
 		   	<div class="row">
-		   		<div class="sixcol">
-		   			<h3 class="title">Ponte Aérea Noruega/Brasil</h3>
-		   			<p class="lead">A Satrode é a parceira oficial da <a href="/">Neptune Software</a> na América Latina, empresa pioneira no desenvolvimento e criação de interface do usuário para aplicações SAP.</p>
-		   		</div>
-		   		<div class="sixcol last">
-
+		   		<div class="twelvecol">
+		   			<h3 class="title">Ponte aérea Noruega-Brasil</h3>
+		   			<p class="lead">Pioneira na criação de interface do usuário para aplicações SAP, a Neptune Software mantém uma parceria exclusiva com a Santrode no Brasil.</p>
+                    <p class="lead">Na prática, essa relação permite à Santrode o acesso a ferramentas únicas no desenvolvimento de suas soluções em mobilidade empresarial.</p>
+                    <p class="lead">Entre elas, o aproveitamento direto do código-fonte da ABAP (SAP), obtido exclusivamente pela parceria com a empresa norueguesa e responsável por minimizar necessidades de integração.</p>
 		   		</div>
 		   	</div>
 	   	</div>
@@ -130,12 +130,15 @@
 	   			<div class="sixcol">
 	   				<h3>Sobre Nós</h3>
 
-		   			<p>Dispomos de qualificação para a realização da implantação da solução de mobilidade baseada em nossa experiência de mais de 11 (onze) anos no Brasil e Exterior.  na implantação de soluções CRM, Business Suíte, Utilities (Gás, Energia, etc), Telecom, Application Management, entre outros segmentos.</p>
+		   			<p>Uma empresa dedicada à implementação de funcionalidades SAP em dispositivos móveis e à consultoria em projetos SAP CRM, atuando no Brasil e no exterior.</p>
+
+                    <p>Assim, há 11 anos a Santrode colabora com o sucesso de clientes de diferentes setores, agregando vantagens competitivas por meio de soluções específicas, seguras e eficientes, desenvolvidas por uma equipe de profissionais qualificados e parcerias exclusivas.</p>
+
 	   			</div>
 
 				<div class="sixcol last">
-					<h3>Veja o que a Santrode pode fazer por sua empresa hoje:</h3>
-					<p>Estamos em busca de novas parcerias e prestar os melhores serviços em consultoria SAP. Se você gostou de nossa proposta, entre em contato hoje mesmo: </p>
+					<h3>Contate a Santrode</h3>
+					<p>Para mais detalhes sobre os serviços da Santrode, propostas de parceria ou informações, entre em contato.</p>
 					<a href="mailto:contato@santrode.com.br" class="btn">Entre em contato conosco</a></p>
 				</div>
 			</div>
