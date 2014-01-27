@@ -1,5 +1,5 @@
-<meta name="description" content="Bem-vindo ao website da Santrode, empresa especializada em soluções em mobilidades baseadas em SAP. São Paulo, Brasil">
-<meta name="author" content="Rodrigo Teixeira">
+<meta name="description" content="Bem-vindo ao website da Santrode, uma empresa especializada em consultoria em projetos SAP CRM, atuando no Brasil e no exterior.">
+<meta name="author" content="Alternativa Coletiva">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="icon" href="favicon.ico">

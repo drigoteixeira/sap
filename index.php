@@ -13,7 +13,6 @@
    <?php include('in/header.php');?>
 
    <main role="main">
-
    		<!-- TAGLINE -->
    		<div id="home" class="hero">
    			<div class="eightcol centered tagline">
