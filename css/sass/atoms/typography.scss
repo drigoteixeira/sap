@@ -85,14 +85,9 @@
 
         .partnership h3.title {
             text-align: left;
+            color: $blue;
         }
 
-        .contact h3 {
-            font-size: 28px;
-            font-weight: 300;
-            text-align: left;
-            color: $red;
-        }
 
         .solutions h4 {
             font-size: 1.4em;
@@ -162,9 +157,13 @@
             font-size: 1.2em;
             text-align: center;
             line-height: 1.6em;
-            margin-bottom: 40px;    
+            margin-bottom: 40px;
         }
 
+        .partnership .lead {
+            text-align: left;
+            font-size: 18px;
+        }
 
         .contact ul {
             margin-left: 0;
@@ -177,15 +176,19 @@
             font-size: 16px;
         }
 
+        .contact ul li a {
+            color: $blue;
+        }
+
         .footer .lead {
             color: $white;
         }
 
-       
+
 
     /*  Links
         ========================================================================== */
-        a { 
+        a {
          color: blue;
          text-decoration: none;
        }
@@ -204,4 +207,4 @@
     }
 
 
-       
+

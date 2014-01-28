@@ -104,9 +104,9 @@
 
 	   	<div id="parceria" class="partnership">
 		   	<div class="row">
-		   		<div class="eightcol">
+		   		<div class="sevencol offset-five">
 		   			<h3 class="title">Ponte aérea Noruega-Brasil</h3>
-		   			<p>Pioneira na criação de interface do usuário para aplicações SAP, a Neptune Software mantém uma parceria exclusiva com a Santrode no Brasil.</p>
+		   			<p class="lead">Pioneira na criação de interface do usuário para aplicações SAP, a Neptune Software mantém uma parceria exclusiva com a Santrode no Brasil.</p>
                     <p>Na prática, essa relação permite à Santrode o acesso a ferramentas únicas no desenvolvimento de suas soluções em mobilidade empresarial.</p>
                     <p>Entre elas, o aproveitamento direto do código-fonte da ABAP (SAP), obtido exclusivamente pela parceria com a empresa norueguesa e responsável por minimizar necessidades de integração.</p>
 		   		</div>
@@ -117,25 +117,25 @@
 
 	   	<div id="contato" class="contact">
 	   		<div class="row">
-
-	   			<div class="sixcol">
-	   				<h3>Sobre a Nós</h3>
-
-		   			<p>Uma empresa dedicada à implementação de funcionalidades SAP em dispositivos móveis e à consultoria em projetos SAP CRM, atuando no Brasil e no exterior.</p>
+	   			<div class="twelvecol">
+	   				<h3 class="title">Contate a Santrode</h3>
+		   			<p class="lead">Uma empresa dedicada à implementação de funcionalidades SAP em dispositivos móveis e à consultoria em projetos SAP CRM, atuando no Brasil e no exterior.</p>
+	   			</div>
+			</div>
+            <div class="row">
+                <div class="sixcol">
 
                     <p>Assim, há 11 anos a Santrode colabora com o sucesso de clientes de diferentes setores, agregando vantagens competitivas por meio de soluções específicas, seguras e eficientes, desenvolvidas por uma equipe de profissionais qualificados e parcerias exclusivas.</p>
 
-	   			</div>
-
-				<div class="sixcol last">
-					<h3>Contate a Santrode</h3>
-					<p>Para mais detalhes sobre os serviços da Santrode, propostas de parceria ou informações, entre em contato.</p>
-					<ul>
-                        <li><i class="icon-envelope red"></i> <a href="mailto:contato@santrode.com.br">Entre em Contato</a></li>
+                </div>
+                <div class="sixcol last">
+                    <p>Para mais detalhes sobre os serviços da Santrode, propostas de parceria ou informações, entre em contato.</p>
+                    <ul>
+                        <li><i class="icon-envelope red"></i> <a href="mailto:contato@santrode.com.br">Via e-mail</a></li>
                         <li><i class="icon-phone-sign red"></i><a href="">Telefone: +55 11 0000-0000</a></li>
                     </ul>
-				</div>
-			</div>
+                </div>
+            </div>
 	   	</div>
    </main>
 
