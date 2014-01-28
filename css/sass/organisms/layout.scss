@@ -12,7 +12,9 @@
         }
 
 
-        /* HOMEPAGE */
+        .hideme {
+            opacity: 0;
+        }
 
         .hero {
             background: url(../img/hero-image.jpg) top center no-repeat;
@@ -39,6 +41,7 @@
             padding: 80px 10px;
             height: 100%;
         }
+
 
         .partnership {
             background: #FDF8F1;

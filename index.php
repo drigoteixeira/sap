@@ -32,21 +32,21 @@
 	   			<p class="lead">Aplicações SAP implementadas de forma rápida, segura e eficiente em dispositivos mobile, como tablets, smartphones e desktops. Em parceria com a Neptune Software, a Santrode diferencia-se por oferecer a seus clientes a única solução do mercado integrada ao código-fonte ABAP (SAP), proporcionando:</p>
 	   		</div>
 	   		<div class="row">
-	   			<div class="sixcol">
+	   			<div class="sixcol hideme">
 	   				<h4><i class="icon-dollar red"></i> Economia</h4>
 	   				<p>Ausência de servidores, middleware e integração associada, reduzindo custos excessivos de manutenção</p>
                 </div>
-	   			<div class="sixcol last">
+	   			<div class="sixcol last hideme">
 	   				<h4><i class="icon-gears red"></i> Performance</h4>
 	   				<p>Maximização do SAP, minimizando a necessidade de integração e resultando em um retorno mais rápido sobre o investimento</p>
 	   			</div>
             </div>
             <div class="row">
-                <div class="sixcol">
+                <div class="sixcol hideme">
                     <h4><i class="icon-power-off red"></i> Velocidade</h4>
                     <p>Em poucos dias, as funcionalidades SAP disponíveis nos tablets e smartphones de sua equipe, parceiros ou clientes finais</p>
                 </div>
-                <div class="sixcol last">
+                <div class="sixcol last hideme">
                     <h4><i class="icon-suitcase red"></i> Gestão</h4>
                     <p>Acompanhamento em tempo real das trocas de informação de suas equipes, proporcionando maior controle sobre transações, consultas e status de pedidos</p>
                 </div>
@@ -63,34 +63,34 @@
 		   	</div>
             <div class="row">
                 <div class="fourcol">
-                	<figure class="thumb">
+                	<figure class="thumb hideme">
                     	<img src="img/jquery.png" alt="jQuery">
                 	</figure>
                 </div>
                 <div class="fourcol">
-                    <figure class="thumb">
+                    <figure class="thumb hideme">
                     	<img src="img/jquery-ui.png" alt="jQuery UI">
                 	</figure>
                 </div>
                 <div class="fourcol last">
-                    <figure class="thumb">
+                    <figure class="thumb hideme">
                     	<img src="img/jquery-mobile.png" alt="jQuery Mobile">
                 	</figure>
                 </div>
             </div>
             <div class="row">
             	<div class="fourcol">
-                    <figure class="thumb">
+                    <figure class="thumb hideme">
                     	<img src="img/phonegap.png" alt="Phone Gap">
                 	</figure>
                 </div>
                 <div class="fourcol">
-                    <figure class="thumb">
+                    <figure class="thumb hideme">
                     	<img src="img/wijmo.png" alt="Wijmo">
                 	</figure>
                 </div>
                 <div class="fourcol last">
-                    <figure class="thumb">
+                    <figure class="thumb hideme">
                     	<img src="img/html5.png" alt="HTML5">
                 	</figure>
                 </div>
@@ -104,7 +104,7 @@
 
 	   	<div id="parceria" class="partnership">
 		   	<div class="row">
-		   		<div class="sevencol offset-five">
+		   		<div class="sevencol offset-five hideme">
 		   			<h3 class="title">Ponte aérea Noruega-Brasil</h3>
 		   			<p class="lead">Pioneira na criação de interface do usuário para aplicações SAP, a Neptune Software mantém uma parceria exclusiva com a Santrode no Brasil.</p>
                     <p>Na prática, essa relação permite à Santrode o acesso a ferramentas únicas no desenvolvimento de suas soluções em mobilidade empresarial.</p>
