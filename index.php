@@ -2,6 +2,7 @@
 <!--[if IE 7]>    <html class="no-js ie7" lang="pt-br">     <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8" lang="pt-br">     <![endif]-->
 <!--[if IE 9]>    <html class="no-js ie9" lang="pt-br">     <![endif]-->
+<html lang="pt-br">
 <head>
    <meta charset="utf-8">
    <title>Santrode - Soluções em Mobilidade SAP</title>
