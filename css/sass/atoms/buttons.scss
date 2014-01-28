@@ -27,10 +27,14 @@
 	}
 
 	.small {
-		padding: 14px 28px;
-		font-size: 12px;
-		width: 200px;
+		padding: 14px 18px;
+        margin-top: 20px;
+		font-size: 14px;
+		width: 305px;
 		text-align: center;
-		margin: 0 10%;
-		background-color: $gray3;
+		background-color: $green;
 	}
+
+    a.small:hover {
+        background-color: $green-dark;
+    }

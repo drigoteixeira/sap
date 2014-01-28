@@ -94,11 +94,19 @@
                     	<img src="img/html5.png" alt="HTML5">
                 	</figure>
                 </div>
-                <div class="threecol centered">
-                    <a href="#" class="btn small">Ver Demonstração <i class="icon-arrow"></i></a>
-                </div>
             </div>
 	   	</div>
+
+        <div class="demonstracao">
+            <div class="row">
+                <div class="eightcol">
+                    <h4 class="title">Você precisa saber como funciona a aplicação?</h4>
+                </div>
+                <div class="fourcol last">
+                    <p><a href="#" class="btn small">Veja a demonstração <i class="icon-arrow"></i></a></p>
+                </div>
+            </div>
+        </div>
 
 	   	<!-- PARTNERSHIP -->
 

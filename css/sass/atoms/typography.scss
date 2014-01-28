@@ -83,6 +83,13 @@
             margin-bottom: 10px;
         }
 
+        h4.title {
+            font-size: 1.6em;
+            font-weight: 200;
+            color: $gray6;
+            text-align: center;
+        }
+
         .partnership h3.title {
             text-align: left;
             color: $blue;
@@ -135,6 +142,11 @@
         .hero p {
             text-align: center;
             text-shadow: 1px 1px 1px #333333;
+        }
+
+
+        .demonstracao p {
+            text-align: center;
         }
 
 
@@ -203,6 +215,12 @@
         .tagline h2 {
             font-size: 4em;
         }
+
+        .demonstracao .lead {
+            text-align: right;
+            line-height: 22px;
+        }
+
 
     }
 
