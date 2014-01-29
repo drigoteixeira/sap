@@ -2,12 +2,12 @@
 
 <header class="header" role="banner">
 	<div class="row">
-		<div class="twocol">
+		<div class="threecol">
 			<div class="logo">
 				<h1><a href="index.php">Santrode</a></h1>
 			</div>
 		</div>
-		<div class="tencol last">
+		<div class="ninecol last">
 			<a href="#menu" class="menu-link"><i class="icon-align-justify"></i></a>
 			<nav id="menu" role="navigation">
 				<ul>
