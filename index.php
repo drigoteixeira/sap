@@ -105,7 +105,7 @@
                     <h4 class="title">Você precisa saber como funciona a aplicação?</h4>
                 </div>
                 <div class="fivecol last">
-                    <p><a href="#" class="btn small">Veja a demonstração <i class="icon-arrow"></i></a></p>
+                    <p><a href="http://neptune-software.com/experience/" class="btn small">Veja a demonstração <i class="icon-arrow"></i></a></p>
                 </div>
             </div>
         </div>
@@ -142,7 +142,7 @@
                     <p>Para mais detalhes sobre os serviços da Santrode, propostas de parceria ou informações, entre em contato.</p>
                     <ul>
                         <li><i class="icon-envelope red"></i> <a href="mailto:contato@santrode.com.br">Via e-mail</a></li>
-                        <li><i class="icon-phone-sign red"></i><a href="">Telefone: +55 11 0000-0000</a></li>
+                        <li><i class="icon-phone-sign red"></i><a href="tel551100000000">Telefone: +55 11 0000-0000</a></li>
                     </ul>
                 </div>
             </div>
