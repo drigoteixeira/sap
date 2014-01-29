@@ -17,11 +17,13 @@
 
    		<!-- TAGLINE -->
    		<div id="home" class="hero">
-   			<div class="tencol centered tagline">
-	   			<h2>Conectando pessoas <span>para mover negócios</span></h2>
-	   			<p>Agilidade, produtividade, gestão centralizada. Descubra com a Santrode o que as aplicações SAP e a mobilidade corporativa podem fazer por sua empresa. </p>
-	   			<a href="#solucoes" class="btn">Saiba Mais</a>
-   			</div>
+            <div class="row">
+       			<div class="tencol centered tagline">
+    	   			<h2>Conectando pessoas <span>para mover negócios</span></h2>
+    	   			<p>Agilidade, produtividade, gestão centralizada. Descubra com a Santrode o que as aplicações SAP e a mobilidade corporativa podem fazer por sua empresa. </p>
+    	   			<a href="#solucoes" class="btn">Saiba Mais</a>
+       			</div>
+            </div>
    		</div>
 
    		<!-- SOLUTIONS -->
