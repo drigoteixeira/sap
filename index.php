@@ -17,8 +17,8 @@
 
    		<!-- TAGLINE -->
    		<div id="home" class="hero">
-   			<div class="eightcol centered tagline">
-	   			<h2>Conectando pessoas para mover negócios</h2>
+   			<div class="tencol centered tagline">
+	   			<h2>Conectando pessoas <span>para mover negócios</span></h2>
 	   			<p>Agilidade, produtividade, gestão centralizada. Descubra com a Santrode o que as aplicações SAP e a mobilidade corporativa podem fazer por sua empresa. </p>
 	   			<a href="#solucoes" class="btn">Saiba Mais</a>
    			</div>
@@ -99,10 +99,10 @@
 
         <div class="demonstracao">
             <div class="row">
-                <div class="eightcol">
+                <div class="sevencol">
                     <h4 class="title">Você precisa saber como funciona a aplicação?</h4>
                 </div>
-                <div class="fourcol last">
+                <div class="fivecol last">
                     <p><a href="#" class="btn small">Veja a demonstração <i class="icon-arrow"></i></a></p>
                 </div>
             </div>

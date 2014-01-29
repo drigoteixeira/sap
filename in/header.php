@@ -4,7 +4,7 @@
 	<div class="row">
 		<div class="threecol">
 			<div class="logo">
-				<h1><a href="index.php">Santrode</a></h1>
+				<h1><a href="/">Santrode</a></h1>
 			</div>
 		</div>
 		<div class="ninecol last">
