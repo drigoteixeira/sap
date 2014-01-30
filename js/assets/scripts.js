@@ -25,7 +25,7 @@ $(".tagline p").delay(1000).animate({opacity: 1}, 700);
 $(".tagline a").delay(1000).animate({opacity: 1}, 1200);
 
 
-// EFFECT MENU ACTIVE
+// EFEITO MENU ATIVO
 
 $(document).on("scroll", onScroll);
 
@@ -65,25 +65,21 @@ function onScroll(event){
 }
 
 
-/* Every time the window is scrolled ... */
+/* FADE IN NOS ELEMENTOS NO SCROLL DA PÁGINA */
 $(window).scroll( function(){
-
-    /* Check the location of each desired element */
     $('.hideme').each( function(i){
-
         var bottom_of_object = $(this).position().top + $(this).outerHeight();
         var bottom_of_window = $(window).scrollTop() + $(window).height();
 
-        /* If the object is completely visible in the window, fade it it */
         if( bottom_of_window > bottom_of_object ){
-
             $(this).animate({'opacity':'1'},500);
-
         }
-
     });
-
 });
+
+/* ABRE LINKS EXTERNOS EM OUTRA JANELA */
+
+$("a[href^='http://']").attr("target","_blank");
 
 
 });
