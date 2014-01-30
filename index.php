@@ -31,7 +31,7 @@
 	   		<div class="twelvecol">
 	   			<h3 class="title">Uma solução exclusiva em mobilidade SAP</h3>
 
-	   			<p class="lead">Aplicações SAP implementadas de forma rápida, segura e eficiente em dispositivos mobile, como tablets, smartphones e desktops. Em parceria com a Neptune Software, a Santrode diferencia-se por oferecer a seus clientes a única solução do mercado integrada ao código-fonte ABAP (SAP), proporcionando:</p>
+	   			<p class="lead">Aplicações SAP implementadas de forma rápida, segura e eficiente em dispositivos mobile, como tablets, smartphones e desktops. Em parceria com a <a href="http://neptune-software.com/">Neptune Software</a>, a Santrode diferencia-se por oferecer a seus clientes a única solução do mercado integrada ao código-fonte ABAP (SAP), proporcionando:</p>
 	   		</div>
 	   		<div class="row">
 	   			<div class="sixcol hideme">
@@ -116,7 +116,7 @@
 		   	<div class="row">
 		   		<div class="sevencol offset-five hideme">
 		   			<h3 class="title">Ponte aérea Noruega-Brasil</h3>
-		   			<p class="lead">Pioneira na criação de interface do usuário para aplicações SAP, a Neptune Software mantém uma parceria exclusiva com a Santrode no Brasil.</p>
+		   			<p class="lead">Pioneira na criação de interface do usuário para aplicações SAP, a <a href="http://neptune-software.com/">Neptune Software</a> mantém uma parceria exclusiva com a Santrode no Brasil.</p>
                     <p>Na prática, essa relação permite à Santrode o acesso a ferramentas únicas no desenvolvimento de suas soluções em mobilidade empresarial.</p>
                     <p>Entre elas, o aproveitamento direto do código-fonte da ABAP (SAP), obtido exclusivamente pela parceria com a empresa norueguesa e responsável por minimizar necessidades de integração.</p>
 		   		</div>
@@ -141,8 +141,8 @@
                 <div class="sixcol last">
                     <p>Para mais detalhes sobre os serviços da Santrode, propostas de parceria ou informações, entre em contato.</p>
                     <ul>
-                        <li><i class="icon-envelope red"></i> <a href="mailto:contato@santrode.com.br">Via e-mail</a></li>
-                        <li><i class="icon-phone-sign red"></i><a href="tel551100000000">Telefone: +55 11 0000-0000</a></li>
+                        <li><i class="icon-envelope red"></i><a href="mailto:contato@santrode.com.br">contato@santrode.com.br</a></li>
+                        <li><i class="icon-phone-sign red"></i><a href="tel551100000000">Telefone: +55 11 98268-7760</a></li>
                     </ul>
                 </div>
             </div>
