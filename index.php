@@ -19,8 +19,8 @@
    		<div id="home" class="hero">
             <div class="row">
        			<div class="tencol centered tagline">
-    	   			<h2>Conectando pessoas <span>para mover negócios</span></h2>
-    	   			<p>Agilidade, produtividade, gestão centralizada. Descubra com a Santrode o que as aplicações SAP e a mobilidade corporativa podem fazer por sua empresa. </p>
+    	   			<h2>A próxima geração de interfaces gráficas SAP</h2>
+    	   			<p>Agilidade, eficiência, economia e segurança. Descubra com a Santrode o que nossas aplicações corporativas podem fazer por sua empresa.</p>
     	   			<a href="#solucoes" class="btn">Saiba Mais</a>
        			</div>
             </div>
@@ -29,28 +29,28 @@
    		<!-- SOLUTIONS -->
 	   	<div id="solucoes" class="row solutions">
 	   		<div class="twelvecol">
-	   			<h3 class="title">Uma solução exclusiva em mobilidade SAP</h3>
+	   			<h3 class="title">Solução em mobilidade SAP</h3>
 
-	   			<p class="lead">Aplicações SAP implementadas de forma rápida, segura e eficiente em dispositivos mobile, como tablets, smartphones e desktops. Em parceria com a <a href="http://neptune-software.com/">Neptune Software</a>, a Santrode diferencia-se por oferecer a seus clientes a única solução do mercado integrada ao código-fonte ABAP (SAP), proporcionando:</p>
+	   			<p class="lead">A Santrode possibilita que as funcionalidades de seu sistema SAP sejam utilizadas através de interfaces para dispositivos móveis (smartphones e tablets) e desktops. Em parceria com a <a href="http://www.neptune-software.com">Neptune Software</a>, a Santrode diferencia-se por oferecer a seus clientes a única solução do mercado integrada ao código-fonte ABAP, proporcionando:</p>
 	   		</div>
 	   		<div class="row">
 	   			<div class="sixcol hideme">
-	   				<h4><i class="icon-dollar red"></i> Economia</h4>
-	   				<p>Ausência de servidores, middleware e integração associada, reduzindo custos excessivos de manutenção</p>
+	   				<h4><i class="icon-dollar red"></i> Custo-Benefício</h4>
+	   				<p>Ausência de servidores ou middleware adicionais. A integração é feita diretamente no servidor SAP Netweaver reduzindo custos excessivos de infra-estrutura.</p>
                 </div>
 	   			<div class="sixcol last hideme">
-	   				<h4><i class="icon-gears red"></i> Performance</h4>
-	   				<p>Maximização do SAP, minimizando a necessidade de integração e resultando em um retorno mais rápido sobre o investimento</p>
+	   				<h4><i class="icon-gears red"></i> Integração Direta</h4>
+	   				<p>Integrado diretamente ao servidor SAP, utilizamos todas as configurações do sistema e possibilitamos a utilização de processos standard ou customizados através de nossas interfaces.</p>
 	   			</div>
             </div>
             <div class="row">
                 <div class="sixcol hideme">
-                    <h4><i class="icon-power-off red"></i> Velocidade</h4>
-                    <p>Em poucos dias, as funcionalidades SAP disponíveis nos tablets e smartphones de sua equipe, parceiros ou clientes finais</p>
+                    <h4><i class="icon-power-off red"></i> Implementação Ágil</h4>
+                    <p>Em poucos dias, as funcionalidades SAP estarão disponíveis em novas interfaces para desktop ou dispositivos móveis.</p>
                 </div>
                 <div class="sixcol last hideme">
-                    <h4><i class="icon-suitcase red"></i> Gestão</h4>
-                    <p>Acompanhamento em tempo real das trocas de informação de suas equipes, proporcionando maior controle sobre transações, consultas e status de pedidos</p>
+                    <h4><i class="icon-suitcase red"></i> Segurança</h4>
+                    <p>Nossas aplicações são desenvolvidas de acordo com as regras de autorização do servidor SAP, ou seja, a autenticação de usuários é baseada na estrutura empresarial existente e os protocolos de acesso são controlados pela camada SAP Netweaver.</p>
                 </div>
             </div>
 	   	</div>
@@ -102,10 +102,10 @@
         <div class="demonstracao">
             <div class="row">
                 <div class="sevencol">
-                    <h4 class="title">Você precisa saber como funciona a aplicação?</h4>
+                    <h4 class="title">Veja na prática como tudo isso funciona: </h4>
                 </div>
                 <div class="fivecol last">
-                    <p><a href="http://neptune-software.com/experience/" class="btn small">Veja a demonstração <i class="icon-arrow"></i></a></p>
+                    <p><a href="http://neptune-software.com/experience/" class="btn small">Veja a demonstração da Neptune Software<i class="icon-arrow"></i></a></p>
                 </div>
             </div>
         </div>
@@ -115,10 +115,9 @@
 	   	<div id="parceria" class="partnership">
 		   	<div class="row">
 		   		<div class="sevencol offset-five hideme">
-		   			<h3 class="title">Ponte aérea Noruega-Brasil</h3>
+		   			<h3 class="title">Parceria exclusiva Noruega-Brasil</h3>
 		   			<p class="lead">Pioneira na criação de interface do usuário para aplicações SAP, a <a href="http://neptune-software.com/">Neptune Software</a> mantém uma parceria exclusiva com a Santrode no Brasil.</p>
-                    <p>Na prática, essa relação permite à Santrode o acesso a ferramentas únicas no desenvolvimento de suas soluções em mobilidade empresarial.</p>
-                    <p>Entre elas, o aproveitamento direto do código-fonte da ABAP (SAP), obtido exclusivamente pela parceria com a empresa norueguesa e responsável por minimizar necessidades de integração.</p>
+                    <p>Na prática, essa relação permite à Santrode o acesso a ferramentas únicas no desenvolvimento de suas soluções em mobilidade empresarial e suporte total a nossa equipe seja em aspectos técnicos ou comerciais.</p>
 		   		</div>
 		   	</div>
 	   	</div>
@@ -129,13 +128,13 @@
 	   		<div class="row">
 	   			<div class="twelvecol">
 	   				<h3 class="title">Contate a Santrode</h3>
-		   			<p class="lead">Uma empresa dedicada à implementação de funcionalidades SAP em dispositivos móveis e à consultoria em projetos SAP CRM, atuando no Brasil e no exterior.</p>
+		   			<p class="lead">Uma empresa dedicada à implementação de funcionalidades SAP em dispositivos móveis e à consultoria em projetos SAP ECC e CRM.</p>
 	   			</div>
 			</div>
             <div class="row">
                 <div class="sixcol">
 
-                    <p>Assim, há 11 anos a Santrode colabora com o sucesso de clientes de diferentes setores, agregando vantagens competitivas por meio de soluções específicas, seguras e eficientes, desenvolvidas por uma equipe de profissionais qualificados e parcerias exclusivas.</p>
+                    <p>Assim, há mais de 10 anos os profissionais que compõem a equipe Santrode colaboram com o sucesso de clientes de diferentes setores, agregando vantagens competitivas por meio de soluções específicas, seguras e eficientes.</p>
 
                 </div>
                 <div class="sixcol last">
