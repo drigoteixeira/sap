@@ -84,12 +84,16 @@
             font-size: 1.6em;
             font-weight: 200;
             color: $gray6;
-            text-align: center;
+            text-align: left;
         }
 
         .partnership h3.title {
             text-align: left;
-            color: $blue;
+            color: $yellow;
+        }
+
+        .partnership a {
+            color: $yellow;
         }
 
 
@@ -163,11 +167,12 @@
 
         .partnership p {
             font-size: 16px;
+            color: $white;
         }
 
         .lead {
             color: $gray6;
-            font-weight: 300;
+            font-weight: 400;
             font-size: 1.2em;
             text-align: center;
             line-height: 1.6em;
@@ -177,6 +182,7 @@
         .partnership .lead {
             text-align: left;
             font-size: 18px;
+            color: $white;
         }
 
         .contact ul {

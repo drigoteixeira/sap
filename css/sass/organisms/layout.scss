@@ -51,7 +51,7 @@
         }
 
         .partnership {
-            background: #FDF8F1;
+            background: $blue-dark;
         }
 
         .contact {
@@ -80,8 +80,4 @@
 
     @media only screen and (min-width: $breakpoint) {
 
-        .partnership {
-            background: #f5f5f5 url(../img/bg_partnership.jpg) bottom left no-repeat;
-            background-size: cover;
-        }
     }
