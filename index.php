@@ -114,15 +114,15 @@
 
 	   	<div id="parceria" class="partnership">
 		   	<div class="row">
-                <div class="sixcol hideme">
-                    <h3 class="title">Parceria exclusiva Noruega-Brasil</h3>
-                    <p class="lead">Pioneira na criação de interfaces gráficas para aplicações SAP, a <a href="http://www.neptune-software.com">Neptune Software</a> mantém uma parceria exclusiva com a Santrode no Brasil.</p>
-                    <p class="lead">Na prática, essa relação permite à Santrode o acesso a ferramentas únicas no desenvolvimento de suas soluções em mobilidade empresarial, proporcionando suporte total em aspectos técnicos e comerciais a seus clientes. </p>
-                </div>
                 <div class="sixcol last">
                     <figure class="thumb hideme">
                         <img src="img/logo-neptune.png" alt="Neptune Software">
                     </figure>
+                </div>
+                <div class="sixcol last hideme">
+                    <h3 class="title">Parceria exclusiva Noruega-Brasil</h3>
+                    <p class="lead">Pioneira na criação de interfaces gráficas para aplicações SAP, a <a href="http://www.neptune-software.com">Neptune Software</a> mantém uma parceria exclusiva com a Santrode no Brasil.</p>
+                    <p class="lead">Na prática, essa relação permite à Santrode o acesso a ferramentas únicas no desenvolvimento de suas soluções em mobilidade empresarial, proporcionando suporte total em aspectos técnicos e comerciais a seus clientes. </p>
                 </div>
 		   	</div>
 	   	</div>
