@@ -39,14 +39,14 @@
 	   				<p>Ausência de servidores ou middleware adicionais. A integração é feita diretamente no servidor SAP Netweaver, reduzindo custos excessivos de infraestrutura.</p>
                 </div>
 	   			<div class="sixcol last hideme">
-	   				<h4><i class="icon-gears red"></i> Integração Direta</h4>
-	   				<p>Integradas diretamente ao servidor SAP, as aplicações utilizam todas as configurações do sistema e possibilitam a adoção de processos standard ou customizados por meio das interfaces geradas.</p>
-	   			</div>
+                    <h4><i class="icon-power-off red"></i> Implementação Ágil</h4>
+                    <p>Em poucos dias, as funcionalidades SAP estarão disponíveis em novas interfaces para desktop ou dispositivos móveis.</p>
+                </div>
             </div>
             <div class="row">
                 <div class="sixcol hideme">
-                    <h4><i class="icon-power-off red"></i> Implementação Ágil</h4>
-                    <p>Em poucos dias, as funcionalidades SAP estarão disponíveis em novas interfaces para desktop ou dispositivos móveis.</p>
+                    <h4><i class="icon-gears red"></i> Integração Direta</h4>
+                    <p>Integradas diretamente ao servidor SAP, as aplicações utilizam todas as configurações do sistema e possibilitam a adoção de processos standard ou customizados por meio das interfaces geradas.</p>
                 </div>
                 <div class="sixcol last hideme">
                     <h4><i class="icon-suitcase red"></i> Segurança</h4>
