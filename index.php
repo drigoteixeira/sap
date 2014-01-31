@@ -114,7 +114,7 @@
 
 	   	<div id="parceria" class="partnership">
 		   	<div class="row">
-                <div class="sixcol last">
+                <div class="sixcol">
                     <figure class="thumb hideme">
                         <img src="img/logo-neptune.png" alt="Neptune Software">
                     </figure>
