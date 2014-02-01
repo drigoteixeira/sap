@@ -16,7 +16,6 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
 <![endif]-->
 
-<!-- Verif Mobile -->
 <?php
    require_once 'in/mobile_detect.php';
    $detect = new Mobile_Detect();
