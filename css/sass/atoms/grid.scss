@@ -15,11 +15,6 @@
 
 
     @media only screen {
-        .container {
-            padding-left: 10px;
-            padding-right: 10px;
-        }
-
         .row {
             width: 100%;
             @include clearfix();

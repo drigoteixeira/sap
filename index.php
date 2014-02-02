@@ -10,9 +10,12 @@
    <?php include('in/estilos.php');?>
 </head>
 <body>
+        
    <!-- Header -->
    <?php include('in/header.php');?>
 
+   <div class="container">
+       
    <main role="main">
 
    		<!-- TAGLINE -->
@@ -152,6 +155,8 @@
             </div>
 	   	</div>
    </main>
+
+    </div>
 
    <!-- Footer -->
    <?php include('in/footer.php');?>

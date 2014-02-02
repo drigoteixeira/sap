@@ -34,8 +34,11 @@
       src: local('Lato Italic'), local('Lato-Italic'), url(http://themes.googleusercontent.com/static/fonts/lato/v7/RYyZNoeFgb0l7W3Vu1aSWOvvDin1pK8aKteLpeZ5c0A.woff) format('woff');
     }
 
-    body {
+    html {
         -webkit-text-size-adjust: none;
+    }
+
+    body {
         -ms-text-size-adjust:none;
         -webkit-text-stroke: 0.001px transparent;
         font-family: 'Lato', sans-serif;
