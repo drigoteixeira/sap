@@ -1,7 +1,8 @@
+<meta name="viewport" content="width=device-width, initial-scale=2, maximum-scale=1">
 <meta name="description" content="Conheça a Santrode, uma empresa especializada em consultoria em projetos SAP">
 <meta name="keywords" content="sap, abap, crm, interface, consultoria, tecnologia, mobilidade, corporativa, aplicação, projetos, soluções, aplicativos">
 <meta name="author" content="Alternativa Coletiva">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="apple-touch-icon" href="apple-touch-icon.png" />

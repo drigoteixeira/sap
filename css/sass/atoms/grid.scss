@@ -2,25 +2,31 @@
     Grid calc
     ========================================================================== */
     /* Funções de cálculo do grid */
-    @import 'grid-functions';
+    @import "grid-functions";
 
 /*  ==========================================================================
     Grid
     ========================================================================== */
     
-    body {
+     body {
         width: 100%;
         @include clearfix();
     }
 
 
     @media only screen {
+        .container {
+            overflow-x: hidden; /* Corrige a visualização portrait e landscape do site */
+        }
+
         .row {
             width: 100%;
             @include clearfix();
             margin: 0 auto;
         }
     }
+
+
 
     /*
      * CSS adaptado para dispositivos com resoluções maiores que 767px
