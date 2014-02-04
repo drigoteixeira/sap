@@ -103,10 +103,10 @@
             <div class="demonstracao">
                 <div class="row">
                     <div class="sevencol">
-                        <h4 class="title">Veja na prática como tudo isso funciona </h4>
+                        <h4 class="title">Veja na prática como tudo isso funciona:</h4>
                     </div>
                     <div class="fivecol last">
-                        <p><a href="http://neptune-software.com/experience/" class="btn small">Veja a demonstração da Neptune Software<i class="icon-arrow"></i></a></p>
+                        <p><a href="http://neptune-software.com/experience/" class="btn small">Veja a demonstração da <br />Neptune Software<i class="icon-arrow"></i></a></p>
                     </div>
                 </div>
             </div>

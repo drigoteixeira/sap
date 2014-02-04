@@ -29,10 +29,12 @@
 	.small {
 		padding: 14px 18px;
         margin-top: 20px;
+        line-height: 18px;
 		font-size: 14px;
-		width: 380px;
+		width: 320px;
 		text-align: center;
 		background-color: $yellow;
+		text-shadow: 0 1px 0 rgba(0, 0, 0, 0.6);
 	}
 
     a.small:hover {
