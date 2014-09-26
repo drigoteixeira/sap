@@ -17,16 +17,34 @@
         }
 
         .hero {
-            background: url(../img/hero-image.jpg) top center no-repeat;
-            background-size: cover;
-            height: 480px;
-            max-height: 480px;
+            height: 400px;
+            max-height: 400px;
             min-height: 183px;
             overflow: hidden;
             position: relative;
             width: 100%;
             margin-bottom: 20px;
         }
+
+        #home .hero {
+            background: url(../img/hero-image.jpg) top center no-repeat;
+            background-size: cover;
+        }
+
+        #solucoes .hero {
+            background: url(../img/hero-solucoes.jpg) top center no-repeat;
+            background-size: cover;
+        } 
+
+        #cases .hero {
+            background: url(../img/hero-cases.jpg) top center no-repeat;
+            background-size: cover;
+        } 
+
+        #contato .hero {
+            background: url(../img/hero-contato.jpg) top center no-repeat;
+            background-size: cover;
+        } 
 
         .tagline {
             text-align: center;
@@ -73,6 +91,39 @@
             width: auto;
             margin: 0 auto;
         }
+
+
+        /* DEPOIMENTOS */
+
+        .depoimento {
+            margin-bottom: 40px;
+        }
+
+        .depoimento .logo-client {
+            margin-bottom: 10px;
+        }
+
+        .depoimento blockquote {
+            padding: 0;
+            margin: 0 0 10px 0;
+            font-size: 1.2em;
+            line-height: 1.8em;
+            color: #666;
+            text-align: center;
+            font-style: italic;
+        }
+
+        .depoimento cite {
+            display: block;
+            text-align: center;
+            font-size: 1.2em;
+            margin-bottom: 40px;
+        }
+
+        .depoimento cite strong {
+            color: $red;
+        }
+
 
     }
 
