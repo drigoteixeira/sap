@@ -40,7 +40,7 @@ module.exports = function(grunt) {
         uglify: {
             dev: {
                 files: {
-                    'js/scripts.min.js': ['js/assets/scripts.js']
+                    'js/scripts.min.js': ['js/assets/scripts.js', 'js/assets/libs/jquery.themepunch.plugins.min.js', 'js/assets/libs/jquery.themepunch.revolution.min.js']
                 }
             },
             demoStyleguide: {
