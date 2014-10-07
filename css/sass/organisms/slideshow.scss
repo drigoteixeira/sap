@@ -24,6 +24,7 @@
 	left: 0;
 } 
 
+
 .sl-slide {
 	z-index: 1;
 }
@@ -113,7 +114,7 @@
 }
 
 
-/* Layout 8*/ 
+/* Layout */ 
 
 .demo-2 .sl-slider-wrapper {
 	width: 100%;
@@ -122,30 +123,36 @@
 	position: relative;
 }
 
-.tagline-home  {
-	padding: 70px 50px 10px 50px;
-	width: 100%;
-	max-width: 960px;
+.hero-image {
+	width: 920px;
 	margin: 0 auto;
+}
+
+.tagline-home  {
+	padding: 80px 0 0 0;
+	width: 480px;
+	max-width: 780px;
+	margin: 0;
 	position: relative;
 	z-index: 100;
-	text-align: center;
 }
 
 .tagline-home h2 {
 	color: #fff;
-	font-size: 60px;
+	font-size: 48px;
+	font-weight: 400;
 	text-shadow: 1px 1px 1px #333;
 	letter-spacing: -1px;
-	line-height: 54px;
-	text-align: center;
+	line-height: 48px;
+	margin-bottom: 20px;
 }
 
 .tagline-home p {
-	font-size: 1.2em;
+	font-size: 1.1em;
+	line-height: 1.4em;
 	color: #fff;
 	text-shadow: 1px 1px 1px #333;
-	text-align: center;
+	text-align: left;
 }
 
 
@@ -269,10 +276,10 @@
 	background-image: url(../img/hero-image-new.jpg);
 }
 .demo-2 .bg-img-2 {
-	background-image: url(../img/hero-image-interface.jpg);
+	background-image: url(../img/hero-consultoria.jpg);
 }
 .demo-2 .bg-img-3 {
-	background-image: url(../img/hero-image.jpg);
+	background-image: url(../img/hero-interfaces.jpg);
 }
 
 /* Animations for content elements */
@@ -425,9 +432,7 @@
 
 @media screen and (max-width: 660px) {
 
-
 	
-
 	.demo-2 .sl-slider-wrapper {
 		height: 500px;
 	}

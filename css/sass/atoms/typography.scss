@@ -74,7 +74,7 @@
 
         h3.title {
             font-size: 2.6em;
-            font-weight: 400;
+            font-weight: 300;
             color: $red;
             text-align: center;
             margin-bottom: 10px;
@@ -152,7 +152,9 @@
         }
 
 
-        .demonstracao p {
+        .demonstracao p,
+        .call p,
+        .contact p {
             text-align: center;
         }
 
@@ -186,6 +188,18 @@
             color: $white;
         }
 
+        .solutions ul {
+            list-style: none;
+        }
+
+        .solutions ul li, .solutions li p {
+            text-align: center;
+        }
+
+        .solutions ul li {
+            margin-bottom: 40px;
+        }
+
         .contact ul {
             margin-left: 0;
             padding: 0;
@@ -207,6 +221,20 @@
 
         .footer a {
             color: $gray6;
+        }
+
+        #consultoria .clientes p {
+            color: $white;
+            margin-bottom: 0;
+        }
+
+        #consultoria .clientes p a {
+            color: $white;
+            text-decoration: underline;
+        }
+
+        #consultoria .clientes p a:hover {
+            text-decoration: none;
         }
 
 
