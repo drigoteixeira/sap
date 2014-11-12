@@ -46,7 +46,7 @@
     /*  Titulos
         ========================================================================== */
 
-        h1,
+        demo,
         h2,
         h3,
         h4,
@@ -151,8 +151,6 @@
             text-shadow: 1px 1px 1px #333333;
         }
 
-
-        .demonstracao p,
         .call p,
         .contact p {
             text-align: center;
@@ -204,6 +202,7 @@
             margin-left: 0;
             padding: 0;
             list-style: none;
+            text-align: center;
         }
 
         .contact ul li {
@@ -237,6 +236,14 @@
             text-decoration: none;
         }
 
+        .demo h3.title {
+            text-align: left;
+            font-style: 32px;
+        }
+
+        .demo h3.title, .demo p {
+            color: #444;
+        }
 
 
     /*  Links
