@@ -135,6 +135,7 @@
 	margin: 0;
 	position: relative;
 	z-index: 100;
+	float: left;
 }
 
 .tagline-home h2 {
@@ -278,8 +279,9 @@
 .demo-2 .bg-img-2 {
 	background-image: url(../img/hero-consultoria.jpg);
 }
+
 .demo-2 .bg-img-3 {
-	background-image: url(../img/hero-interfaces.jpg);
+	background-image: url(../img/hero-neptune.png);
 }
 
 /* Animations for content elements */
@@ -438,9 +440,9 @@
 	}
 
 	.tagline-home  {
-		padding: 100px 0 0 0;
+		padding: 100px 10px 0 10px;
 		margin: 0 10px;
-		width: 100%;
+		width: 80%;
 		max-width: 360px;
 		position: relative;
 		z-index: 100;
@@ -448,7 +450,7 @@
 
 	.tagline-home h2 {
 		color: #fff;
-		font-size: 30px;
+		font-size: 34px;
 		text-shadow: 0 -1px 0 rgba(0,0,0,0.2);
 		letter-spacing: -1px;
 	}
@@ -457,6 +459,11 @@
 		color: #fff;
 		font-size: 1em;
 		text-shadow: 0 -1px 0 rgba(0,0,0,0.2);
+	}
+
+	.demo-2 .bg-img-3 {
+		background-color: #202a2e;
+		background-image: none;
 	}
 
 
